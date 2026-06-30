@@ -5,3 +5,6 @@ Changes:
 1. Decided to make the whole game in one file called bank.java instead of using multiple files.
 2. Added a new window for the user to use to switch between the diffrent areas in the game.
 3. made a new method called runBank to run the bank's interface instead of it always running on when starting the game.
+4. Added a casino.
+5. Added a blackjack game.
+6. Added a coinflip game.
