@@ -10,3 +10,9 @@ Changes:
 4. Added a casino.
 5. Added a blackjack game.
 6. Added a coinflip game.
+
+
+
+
+
+How to play? Run the Bank.java file in cmd and enjoy!!
